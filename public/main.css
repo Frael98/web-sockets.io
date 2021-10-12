@@ -1,0 +1,49 @@
+body {
+  margin: 10px 0;
+}
+
+#chat-container {
+  margin: 10px auto;
+  max-width: 600px;
+  border: 1px solid #ddd;
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 10);
+}
+
+#chat-window {
+  padding: 14px 0;
+  margin: 0 20px;
+  border-bottom: 1px solid #e9e9e9;
+  color: #555;
+}
+
+#output{
+    color: #aaa;
+    padding: 14px 0;
+    margin: 0 20px;
+}
+
+input{
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border: 0;
+    background: #eee;
+    display: block;
+    width: 100%;
+    margin: 10px 2px;
+}
+
+#send{
+    background: rgb(19, 21, 160);
+    color: #fff;
+    font-size: 18px;
+    padding: 12px 0;
+    width: 100%;
+    border-radius: 0 0 2px 2px;
+}
+
+#actions{
+    padding: 14px 0;
+    margin: 0 20px;
+    border-bottom: 1px solid #e9e9e9;
+    color: #555;
+}
